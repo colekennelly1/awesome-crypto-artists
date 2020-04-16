@@ -7,6 +7,7 @@
 ## Contents
 - [Alotta Money](#alotta-money)
 - [Coldie](#coldie)
+- [Frenetik Void](#frenetik-void)
 - [Hackatao](#hackatao)
 - [Pak](#pak)
 - [Trevor Jones](#trevor-jones)
@@ -23,6 +24,12 @@
 - Portfolio: http://www.coldie3d.com/#finecryptoart
 - SuperRare Account: https://superrare.co/coldie
 - Twitter: https://twitter.com/Coldie
+
+## Frenetik Void
+- SuperRare Account: https://superrare.co/frenetikvoid
+- KnownOrigin Account: https://knownorigin.io/artists/0xdbc522931928f8ff7784c84e5fcec4ffdcd6e9eb
+- Async Art Account: https://async.art/u/Frenetik%20Void
+- Twitter: https://twitter.com/frenetikvoid
 
 ## Hackatao
 - SuperRare Account: https://superrare.co/hackatao
