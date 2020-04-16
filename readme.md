@@ -9,6 +9,7 @@
 - [Coldie](#coldie)
 - [Hackatao](#hackatao)
 - [Pak](#pak)
+- [Trevor Jones](#trevor-jones)
 - [XCOPY](#xcopy)
 
 
@@ -23,6 +24,9 @@
 
 ## Pak
 - https://superrare.co/pak
+
+## Trevor Jones
+- https://superrare.co/trevorjonesart
 
 ## XCOPY
 - https://superrare.co/XCOPY
