@@ -7,6 +7,7 @@
 ## Contents
 - [Coldie](#coldie)
 - [Hackatao](#hackatao)
+- [Pak](#pak)
 - [XCOPY](#xcopy)
 
 ## Coldie
@@ -14,6 +15,9 @@
 
 ## Hackatao
 - https://superrare.co/hackatao
+
+## Pak
+- https://superrare.co/pak
 
 ## XCOPY
 - https://superrare.co/XCOPY
