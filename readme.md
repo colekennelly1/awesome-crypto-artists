@@ -5,10 +5,15 @@
 
 
 ## Contents
+- [Alotta Money](#alotta-money)
 - [Coldie](#coldie)
 - [Hackatao](#hackatao)
 - [Pak](#pak)
 - [XCOPY](#xcopy)
+
+
+## Alotta Money
+- https://superrare.co/alotta_money
 
 ## Coldie
 - https://superrare.co/coldie
