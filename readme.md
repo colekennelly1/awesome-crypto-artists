@@ -11,12 +11,13 @@
 - [Hackatao](#hackatao)
 - [Pak](#pak)
 - [Trevor Jones](#trevor-jones)
+- [VansDesign](#vansdesign)
 - [XCOPY](#xcopy)
 
 
 ## Alotta Money
 - Cryptovoxels Gallery: https://www.cryptovoxels.com/play?coords=NE@130W,191N
-- SuperRare Account: https://superrare.co/alotta_money
+- SuperRare Account: x
 - KnownOrigin Account: https://dapp.knownorigin.io/artists/0xbd9b7373aac15d9a93c810df3999343f4fe1ed88
 - Twitter: https://twitter.com/money_alotta
 
@@ -43,6 +44,11 @@
 ## Trevor Jones
 - Portfolio: https://www.trevorjonesart.com/
 - SuperRare Account: https://superrare.co/trevorjonesart
+
+## VansDesign
+- SuperRare Account: https://superrare.co/VansDesign
+- Twitter: https://twitter.com/VansDesign
+- Async Art Account: https://async.art/u/VansDesign
 
 ## XCOPY
 - Portfolio: https://xcopyart.com/
