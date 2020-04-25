@@ -14,7 +14,7 @@
 - [Trevor Jones](#trevor-jones)
 - [VansDesign](#vansdesign)
 - [XCOPY](#xcopy)
-
+- [Yura Miron](#yura-miron)
 
 ## Alotta Money
 - Cryptovoxels Gallery: https://www.cryptovoxels.com/play?coords=NE@130W,191N
@@ -60,3 +60,8 @@
 - SuperRare Account: https://superrare.co/XCOPY
 - KnownOrigin Account: https://dapp.knownorigin.io/artists/0x3768225622d53FfCc1E00eaC53a2A870ECd825C8
 - Twitter: https://twitter.com/XCOPYART
+
+## Yura Miron
+- Portfolio: https://yuramiron.art/
+- SuperRare Account: https://superrare.co/yuramiron
+- Twitter: https://twitter.com/YuraMironArt
