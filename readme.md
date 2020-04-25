@@ -37,6 +37,10 @@
 - KnownOrigin Account: https://dapp.knownorigin.io/artists/0x21316e6a4f0af45e5f1503984e83b10c53b177d8
 - Twitter: https://twitter.com/Hackatao
 
+## John Orion Young
+- Website: https://www.joy.lol/
+- Twitter: https://twitter.com/JohnOrionYoung
+
 ## Pak
 - SuperRare Account: https://superrare.co/pak
 - Twitter: https://twitter.com/muratpak
