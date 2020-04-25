@@ -9,6 +9,7 @@
 - [Coldie](#coldie)
 - [Frenetik Void](#frenetik-void)
 - [Hackatao](#hackatao)
+- [John Orion Young](#john-orion-young]
 - [Pak](#pak)
 - [Trevor Jones](#trevor-jones)
 - [VansDesign](#vansdesign)
